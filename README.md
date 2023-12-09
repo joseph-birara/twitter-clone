@@ -32,6 +32,9 @@ This project serves as a practical exercise to understand and implement key conc
 Follow the [Firbase setup guid for flutter](https://firebase.google.com/docs/flutter/setup?platform=android) to integrate authentication and storage.
 5. Install dependencies:
 ```bash
-flutter pub get```
+flutter pub get
+```
 4. Run the app 
-```bash flutter run```
+```bash
+ flutter run
+```
