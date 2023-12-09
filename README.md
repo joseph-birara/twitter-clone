@@ -25,10 +25,13 @@ This project serves as a practical exercise to understand and implement key conc
    git clone https://github.com/yourusername/flutter-twitter-clone.git
    ```
 2. Navigate to project directory
-    ```cd flutter-twitter-clone```
-3. Configure Firebase:
-Follow the -[Firbase setup guid for flutter](https://firebase.google.com/docs/flutter/setup?platform=android) to integrate authentication and storage.
-4. Install dependencies:
-```flutter pub get```
+    ```bash
+   cd flutter-twitter-clone
+    ```
+4. Configure Firebase:
+Follow the [Firbase setup guid for flutter](https://firebase.google.com/docs/flutter/setup?platform=android) to integrate authentication and storage.
+5. Install dependencies:
+```bash
+flutter pub get```
 4. Run the app 
-```flutter run```
+```bash flutter run```
